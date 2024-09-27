@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
+  <follow_challenge>
+    <feedId>58388799506885632</feedId>
+    <userId>61661538689769472</userId>
+  </follow_challenge>
   <title>云淡风轻</title>
   
   <subtitle>一个安静的角落</subtitle>
